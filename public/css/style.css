@@ -1,0 +1,8 @@
+.current_photo {
+	width: 150px;
+	height: 150px;
+}
+
+#cancel_new_photo {
+	margin-top: 5px;
+}
